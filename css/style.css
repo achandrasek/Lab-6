@@ -40,10 +40,6 @@ h1 {
     height: auto;
 }
 
-#planets tr:hover {
-    background-color: #f0f0f0;
-}
-
 #planets td:first-child {
     font-weight: bold;
 }
